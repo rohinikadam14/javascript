@@ -1,0 +1,41 @@
+bg-container {
+
+    background-image: url("https://www.vecteezy.com/free-photos/sea");
+    height: 150vh;
+    background-size: cover;
+    
+}
+
+    .card{
+        text-align: center;
+        background-color: white;
+        border-top-left-radius:25px ;
+        border-top-right-radius: 25px;
+        padding: 10px;
+    }
+
+
+.main-heading {
+    color: white;
+    font-family: roboto;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.paragraph {
+    color:pink;
+    font-family: roboto;
+    font-size:30px ;
+    font-style: italic;
+}
+.button{
+    height:50px ;
+    width:138px ;
+    background-color: aqua;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+
+}
